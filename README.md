@@ -3,7 +3,6 @@
 An intelligent automation system designed to assist students in organizing their daily academic materials. This project uses computer vision and QR code detection to verify whether the required books are present in a bag based on a predefined timetable, and sends real-time SMS alerts if any items are missing.
 
 ---
-<img width="890" height="479" alt="WhatsApp Image 2026-04-19 at 10 49 17 PM" src="https://github.com/user-attachments/assets/6d12b263-82b0-4891-9628-01ea43476d42" />
 
 ## Demo
 
